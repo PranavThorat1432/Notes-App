@@ -20,6 +20,11 @@ A simple and intuitive **Notes App** built with HTML, CSS, and JavaScript. This 
 
 ---
 
+## Live Preview
+Notes App()
+
+---
+
 ## How to Use 📋
 1. **Clone the Repository**:
    ```bash
@@ -55,10 +60,13 @@ notes-app/
 ## Screenshots 📸
 
 ### 1. Home Page
-![Notes App Homepage](images/notes-home.png)
+![home1](https://github.com/user-attachments/assets/9954d9b5-8ed4-4de1-85d8-9d638e5346ab)
+![home2](https://github.com/user-attachments/assets/e3f73f9f-8f0c-4ec9-bea5-d8e2b51c0865)
+
 
 ### 2. Create Notes
-![Create Notes](images/create-note.png)
+![create-notes](https://github.com/user-attachments/assets/9ec831e4-f84c-4562-8e12-3f854dac97ce)
+
 
 ---
 
