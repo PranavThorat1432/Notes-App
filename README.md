@@ -21,7 +21,7 @@ A simple and intuitive **Notes App** built with HTML, CSS, and JavaScript. This 
 ---
 
 ## Live Preview
-Notes App()
+Notes App(https://notes-app-kappa-lemon.vercel.app/)
 
 ---
 
